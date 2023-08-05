@@ -9,7 +9,7 @@ import github from "../images/fill.svg";
 const Project = () => {
   const projects = [
     {
-      img: "https://github.com/JohnBusayo14/my_new_porfolio/blob/main/src/arc_food_recipe.jpeg",
+      img: "https://github.com/JohnBusayo14/my_new_porfolio/blob/main/src/images/arc_food_recipe.jpeg",
       livePreviewUrl: "https://main--startling-florentine-c4390a.netlify.app/",
       viewCodeUrl: "https://github.com/bomskils/facebook/tree/main/facebook2",
       title: "Count down timer",
@@ -17,7 +17,7 @@ const Project = () => {
       techStack: "HTML, CSS, JavaScript, Git, GitHub, VScode",
     },
     {
-      img: "https://github.com/JohnBusayo14/my_new_porfolio/blob/main/src/arc_food_recipe.jpeg",
+      img: "https://github.com/JohnBusayo14/my_new_porfolio/blob/main/src/images/arc_food_recipe.jpeg",
       livePreviewUrl: "https://main--startling-florentine-c4390a.netlify.app/",
       viewCodeUrl: "https://github.com/bomskils/facebook/tree/main/facebook2",
       title: "Count down timer",

@@ -8,7 +8,7 @@ import github from "../images/fill.svg";
 const Project = () => {
   const projects = [
     {
-      img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+      img: "https://drive.google.com/file/d/1SGWITtEYZg9RddLWPCnePkaTSVJu6ioB/view?usp=drivesdk",
       livePreviewUrl: "",
       viewCodeUrl: "https://github.com/bomskils/facebook/tree/main/facebook2",
       title: "Count down timer",

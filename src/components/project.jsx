@@ -10,15 +10,15 @@ const Project = () => {
   const projects = [
     {
       img: "https://github.com/JohnBusayo14/my_new_porfolio/blob/main/src/arc_food_recipe.jpeg",
-      livePreviewUrl: "",
+      livePreviewUrl: "https://main--startling-florentine-c4390a.netlify.app/",
       viewCodeUrl: "https://github.com/bomskils/facebook/tree/main/facebook2",
       title: "Count down timer",
       description: "This is an application that is used for a timer purpose",
       techStack: "HTML, CSS, JavaScript, Git, GitHub, VScode",
     },
     {
-      img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
-      livePreviewUrl: "",
+      img: "https://github.com/JohnBusayo14/my_new_porfolio/blob/main/src/arc_food_recipe.jpeg",
+      livePreviewUrl: "https://main--startling-florentine-c4390a.netlify.app/",
       viewCodeUrl: "https://github.com/bomskils/facebook/tree/main/facebook2",
       title: "Count down timer",
       description: "This is an application that is used for a timer purpose",

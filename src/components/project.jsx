@@ -2,13 +2,14 @@
 import { Card, Col, Row } from "antd";
 import Meta from "antd/es/card/Meta";
 import React from "react";
+import arc_food from "../images/arc_food_recipe.jpeg";
 import chain from "../images/chain.svg";
 import github from "../images/fill.svg";
 
 const Project = () => {
   const projects = [
     {
-      img: "https://drive.google.com/file/d/1SGWITtEYZg9RddLWPCnePkaTSVJu6ioB/view?usp=drivesdk",
+      img: "arc_food",
       livePreviewUrl: "",
       viewCodeUrl: "https://github.com/bomskils/facebook/tree/main/facebook2",
       title: "Count down timer",

@@ -9,7 +9,7 @@ import github from "../images/fill.svg";
 const Project = () => {
   const projects = [
     {
-      img: "arc_food",
+      img: "https://github.com/JohnBusayo14/my_new_porfolio/blob/main/src/arc_food_recipe.jpeg",
       livePreviewUrl: "",
       viewCodeUrl: "https://github.com/bomskils/facebook/tree/main/facebook2",
       title: "Count down timer",
